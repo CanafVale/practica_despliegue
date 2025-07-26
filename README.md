@@ -5,7 +5,7 @@ Esta es la práctica del módulo de React desplegada en un servidor AWS, tal com
 ## 🌐 Accesos
 
 - **Acceso vía DNS pública**:  
-  http://ec2-100-28-161-187.compute-1.amazonaws.com
+  http://ec2-100-28-161-187.compute-1.amazonaws.com/login
 
 ## 🛠️ Despliegue
 
