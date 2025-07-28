@@ -1,3 +1,20 @@
+# Nodepop - Despliegue en Servidor
+
+Este repositorio contiene el proyecto Nodepop desplegado en un servidor Ubuntu utilizando Nginx como proxy inverso y Supervisor como gestor de procesos.
+
+## ✔ Funcionalidad
+
+- Web de compraventa de productos de segunda mano
+- Login de usuario y gestión de anuncios
+- Imágenes servidas desde carpeta local
+- Estilos CSS entregados por Nginx con cabecera personalizada
+
+## 🌐 URL pública de acceso
+http://100.28.161.187
+
+
+
+
 # Ejercicio 2 - Despliegue de práctica React
 
 Esta es la práctica del módulo de React desplegada en un servidor AWS, tal como se pide en el ejercicio 2 del módulo de Despliegue en Servidor.
